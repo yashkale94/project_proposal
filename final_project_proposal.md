@@ -1,4 +1,7 @@
-﻿## MOTIVATION
+﻿                                YASH KALE
+                            FINAL PROJECT PLAN
+
+## MOTIVATION
 1. It has been a long time since I have been planning to study the results of the English Premier League. I want to examine the trend of clubs that have been relegated, that have ended up winning the league and see how they perform from season to season.
 2. I also want to examine the effects of external factors like referees, or stadiums which the players play in and how that affects the performances of the players on the pitch. This could give a really good insight into the mental aspect of players of a football club. 
 3. Another factor that I would like to examine is the effect of playing in front of the home fans vs playing in front of the away games. Does a stadium change make any difference to the outcome of results? Some clubs do really well at their home stadium where as some clubs play particularly well against higher ranked teams. 
