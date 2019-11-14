@@ -1,5 +1,4 @@
-﻿                                YASH KALE
-                            FINAL PROJECT PLAN
+﻿# YASH KALE: FINAL PROJECT PLAN
 
 ## MOTIVATION
 1. It has been a long time since I have been planning to study the results of the English Premier League. I want to examine the trend of clubs that have been relegated, that have ended up winning the league and see how they perform from season to season.
